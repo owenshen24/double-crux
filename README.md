@@ -4,7 +4,7 @@
 
 Double Crux was a final project for [Google CSSI 2017](https://edu.google.com/resources/programs/computer-science-summer-institute/).
 
-The stylings are based off the Skeleton boilerplate.
+The stylings are based off the [Skeleton boilerplate](https://github.com/dhg/Skeleton#colophon).
 
 The actual double crux philosophy is from the [Center for Applied Rationality](http://rationality.org/). There is an extensive writeup on exactly how it works [here](http://rationality.org/resources/updates/2016/double-crux).
 
